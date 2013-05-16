@@ -1,5 +1,6 @@
 <?php
 
+exit;
 
 ### IMAGESHACK
 $posturl="http://www.imageshack.us/upload_api.php";
